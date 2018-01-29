@@ -5,4 +5,4 @@ services:
     image: coreapp
     build:
       context: ./CoreApp
-      dockerfile: Dockerfile
+      dockerfile: DockerfileBuild
